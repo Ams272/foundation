@@ -1,0 +1,59 @@
+body{
+	background-color: #fdffac;
+	background: linear-gradient(180deg, #FDFFAC 41.15%, #FEFFE1 100%);
+	background-repeat: no-repeat;
+
+}
+
+.header{
+
+	border-bottom: 1px solid green;
+}
+.header-wrapper{
+	display: flex;
+	flex-direction: column;
+/*	align-content: flex-start;
+	justify-content: flex-start;*/
+}
+
+.logo{
+
+	
+}
+
+.logo img{
+	width: 70px;
+	height: 70px;
+}
+.title{
+	padding: 1.25em 0.5em;
+}
+
+
+.nav{
+
+}
+
+#navbar{
+	list-style-type: none;
+}
+
+
+
+ul#navbar li{
+	display: inline;
+	padding: 1em;
+}
+
+.abr{
+	margin: 0.5rem;
+}
+.wrapper-1{
+	width: 400px;
+	height: 712px;
+	border-radius: 15px;
+}
+
+.wrapper-2{
+	
+}
